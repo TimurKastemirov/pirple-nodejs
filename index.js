@@ -85,4 +85,5 @@ const routes = {
 	ping: routeHandlers.ping,
 	users: routeHandlers.users,
 	tokens: routeHandlers.tokens,
+	checks: routeHandlers.checks,
 };
